@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jakeelkins/jakeelkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Jake Elkins
+I am a current PhD student in the Advanced Robotics Lab at the University of Alabama in Huntsville, supervised by Dr. Farbod Fahimi. I am also a current National Defense Science and Engineering Graduate Fellow, class of 2021. I am currently working on online-learning based control systems (merging well-known, proven control strategies of old with modern machine learning to get a proven, stable controller that gets better over time and adapts to novel information). I am also currently working on getting these controllers on actual hardware.
