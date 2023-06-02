@@ -13,5 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Jake Elkins
-I am a current PhD student in the Advanced Robotics Lab at the University of Alabama in Huntsville, supervised by Dr. Farbod Fahimi. I am also a current National Defense Science and Engineering Graduate Fellow, class of 2021. I am currently working on online-learning based control systems (merging well-known, proven control strategies of old with modern machine learning to get a proven, stable controller that gets better over time and adapts to novel information). I am also currently working on getting these controllers on actual hardware.
+### welcome to the show
+- studying learning-based controllers, merging the proven controls of old with modern ML
+- how can we prove controllers with learning-based elements?
+- what if a human is in the loop? then what...
+- online learning? how does a controller adapt to new information without disregarding the old
+
+#### current work:
+- putting one of my controllers on a new servo we have in our lab (RMD-X8 1:6)
+- learning ROS2 and C++...why did I just dev my own C++ linear algebra library...whoops
+
+
+<-- that is my dog Chief, a 6-year-old German Shepherd and my home lab colleague 🐕‍🦺
