@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### current work:
 - putting one of my controllers on a new servo we have in our lab (RMD-X8 1:6)
-- learning ROS2 and C++...why did I just dev my own C++ linear algebra library...whoops
+- learning ROS2 and C++...why did I just dev my own C++ linear algebra library. should've done this during my undergrad
 
 
 <-- that is my dog Chief, a 6-year-old German Shepherd and my home lab colleague 🐕‍🦺
