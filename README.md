@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### welcome to the show
+### welcome to my profile :-)
 - studying learning-based controllers, merging the proven controls of old with modern ML
 - how can we prove controllers with learning-based elements?
 - what if a human is in the loop? then what...
